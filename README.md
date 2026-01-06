@@ -22,7 +22,8 @@
 - **Mustafeez Shaikh** — *Machine Learning Engineer (Lead)*  
   Deep learning model development, frame-level analysis, forgery reasoning logic, and ML-backend integration.
 
-- **Sanskriti Singh** — *Documentation & Testing*  (Lead)* 
+- **Sanskriti Singh** — *Documentation & Testing*  (Lead)*
+  
   Documentation management, testing workflows, validation, and report preparation.
 
 - **Sakib Goundi** — *Frontend Developer*  
@@ -163,3 +164,4 @@ All rights reserved © 2025.
   ⭐ <b>If you like this project, give it a star on GitHub</b> ⭐
 </p>
 ```
+
